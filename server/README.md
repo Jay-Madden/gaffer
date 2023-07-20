@@ -27,7 +27,7 @@ This template starts you off with a `src/lib.rs` file, acting as an entrypoint f
 With `wrangler`, you can build, test, and deploy your Worker with the following commands:
 
 ```sh
-# run your Worker in an ideal development workflow (with a local gaffer-server, file watcher & more)
+# run your Worker in an ideal development workflow (with a local server, file watcher & more)
 $ npm run dev
 
 # deploy your Worker globally to the Cloudflare network (update your wrangler.toml file for configuration)
